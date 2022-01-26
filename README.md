@@ -23,6 +23,14 @@ __________________________________________________________
 3. Технологии: Play Framework, MyBatis, в качестве БД H2 с эмуляцией PostgreSQL, 
    DDL в отдельных скриптах эволюций (evolutions scripts)
 
+
+__________________________________________________________
+##### `Note:` make sure you have the Java 8 JDK (or Java 11 JDK) installed.
+```
+java -version
+```
+
+
 ### ![ij](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/80px-IntelliJ_IDEA_Icon.svg.png)  _Run Project_   
 __________________________________________________________
 1. [ **Download Idea Ultimate** ](https://www.jetbrains.com/ru-ru/idea/download/#section=linux)
